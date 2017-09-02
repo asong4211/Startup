@@ -39,14 +39,14 @@
     - [Do things that don't scale by Walker Williams](https://youtu.be/oQOC-qy-GDY?t=16m15s)
     - [How to operate and make sure the company is moving in the right direction by Keith Rabois](https://www.youtube.com/watch?v=6fQHLK1aIBs&index=14&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     - [How to run a user interview](https://www.youtube.com/watch?v=qAws7eXItMk&index=16&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
-  -**Raise money / talking to investor** 
+  - **Raise money / talking to investor** 
     - [How to Raise Money (Marc Andreessen, Ron Conway, Parker Conrad)](https://www.youtube.com/watch?v=uFX95HahaUs&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=9)
     - [How to get your first 1 Million by Tyler Bosmeny](https://www.youtube.com/watch?v=SHAh6WKBgiE&index=19&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     - [How to talk to investors by Michael Seibel](https://youtu.be/SHAh6WKBgiE?t=19m18s)
     - [Dalton Caldwell and Qasar Younis give how an investor meeting look](https://youtu.be/SHAh6WKBgiE?t=34m12s)
-  -**Product**
+  - **Product**
     -[How to design hardware products by Hosain Rahman](https://www.youtube.com/watch?v=F4K_qVlYQkg&index=17&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
-  -**Miscellaneous**
+  - **Miscellaneous**
     - [How to start a startup by Sam Altman and Dustin Moskovitz](https://www.youtube.com/watch?v=F4K_qVlYQkg&index=17&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     -  [Before the startup by Paul Graham](https://www.youtube.com/watch?v=ii1jcLg-eIQ&index=3&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     -  [How to get started by Stanley Tang](https://youtu.be/oQOC-qy-GDY)
