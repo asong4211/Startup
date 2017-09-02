@@ -1,6 +1,6 @@
 # Startup Talks / Lectures 
 
-1. [Stanford Blitzscaling](https://www.youtube.com/playlist?list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+## 1. Stanford Blitzscaling
   - [Overview of the five stages of blitzscaling](https://www.youtube.com/watch?v=s3RrVmv5WwA&index=1&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
   - [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman) [on Y-combinator and what makes the best founders](https://www.youtube.com/watch?v=CxKXJWf-WMg&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--&index=2)
   - [Michael Dearing on Capitalism, creativity and creative destruction](https://www.youtube.com/watch?v=3vCdfa_aeI8&index=3&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
@@ -23,7 +23,7 @@
   - [Final Recap and student discussion](https://www.youtube.com/watch?v=IyY3t4loUig&index=20&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
   
   
-2. Sam Altman's startup classes 
+## 2. Sam Altman's startup classes 
   - **Team / Culture / Hiring**
     - [Team and Execution by Sam Altman](https://www.youtube.com/watch?v=CVfnkM44Urs&index=2&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     - [Culture by Brian Chesky and Alfred Lin](https://www.youtube.com/watch?v=RfWgVWGEuGE&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=10)
@@ -45,7 +45,7 @@
     - [How to talk to investors by Michael Seibel](https://youtu.be/SHAh6WKBgiE?t=19m18s)
     - [Dalton Caldwell and Qasar Younis give how an investor meeting look](https://youtu.be/SHAh6WKBgiE?t=34m12s)
   - **Product**
-    -[How to design hardware products by Hosain Rahman](https://www.youtube.com/watch?v=F4K_qVlYQkg&index=17&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
+    - [How to design hardware products by Hosain Rahman](https://www.youtube.com/watch?v=F4K_qVlYQkg&index=17&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
   - **Miscellaneous**
     - [How to start a startup by Sam Altman and Dustin Moskovitz](https://www.youtube.com/watch?v=F4K_qVlYQkg&index=17&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     -  [Before the startup by Paul Graham](https://www.youtube.com/watch?v=ii1jcLg-eIQ&index=3&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
