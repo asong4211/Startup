@@ -29,8 +29,12 @@
     - [Culture by Brian Chesky and Alfred Lin](https://www.youtube.com/watch?v=RfWgVWGEuGE&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=10)
     - [Hiring Culture Part 2 by Patrick, John Collison, Ben Silbermann](https://www.youtube.com/watch?v=H8Dl8rZ6qwE&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=11)
     - [How to manage](https://www.youtube.com/watch?v=uVhTvQXfibU&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=15)
+    - [Diversity and Inclusion at early stage by Kat Manalac and a panel discussion](https://youtu.be/v8b_urti6iQ)
+    - [Vinod Khosla talks about belief systems around hiring and how to manage growth internally](https://youtu.be/alqHBCkSN8I)
   - **Marketing / PR / Press**
     - [Press by Justin Kan](https://youtu.be/oQOC-qy-GDY?t=33m28s)
+    - [How to think about PR by Sharon Pope](https://youtu.be/KlekeNwOGHw)
+    - 
   - **Users / Growing / Competition**
     - [Building product, talking to users, and growing by Adora Cheung](https://www.youtube.com/watch?v=yP176MBG9Tk&index=4&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     - [Competition is for losers by Peter Thiel](https://www.youtube.com/watch?v=5_0dVHMpJlo&index=5&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
@@ -39,13 +43,23 @@
     - [Do things that don't scale by Walker Williams](https://youtu.be/oQOC-qy-GDY?t=16m15s)
     - [How to operate and make sure the company is moving in the right direction by Keith Rabois](https://www.youtube.com/watch?v=6fQHLK1aIBs&index=14&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     - [How to run a user interview](https://www.youtube.com/watch?v=qAws7eXItMk&index=16&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
+    
   - **Raise money / talking to investor** 
     - [How to Raise Money (Marc Andreessen, Ron Conway, Parker Conrad)](https://www.youtube.com/watch?v=uFX95HahaUs&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=9)
     - [How to get your first 1 Million by Tyler Bosmeny](https://www.youtube.com/watch?v=SHAh6WKBgiE&index=19&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     - [How to talk to investors by Michael Seibel](https://youtu.be/SHAh6WKBgiE?t=19m18s)
     - [Dalton Caldwell and Qasar Younis give how an investor meeting look](https://youtu.be/SHAh6WKBgiE?t=34m12s)
-  - **Product**
+    - [How to raise money by Jess Lee and Aaron Harris](https://youtu.be/5ZXU84_sGXo)
+    
+  - **Product / Idea**
     - [How to design hardware products by Hosain Rahman](https://www.youtube.com/watch?v=F4K_qVlYQkg&index=17&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
+    - [How to get ideas by Steward Butterfield](https://youtu.be/zsBjAuexPq4)
+    - [Measurement / tracking metrics](https://youtu.be/zsBjAuexPq4?t=24m19s)
+    - [How to build a product I by Michael Seibel, Steve Huffman and Emmett Shear](https://youtu.be/6IFR3WYSBFM)
+    - [How to build a product III by Jason Lemkin,Solomon Hykes, Tracy Young, Harry Zhang](https://youtu.be/09GRs0FXdWQ)
+    - [How to find Product Market fit](https://youtu.be/_6pl5GG8RQ4)
+    - [How to invent the future by Alan Kay Part I](https://www.youtube.com/watch?v=id1WShzzMCQ&list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY&index=6) [ & Part II](https://youtu.be/1e8VZlPBx_0)
+
   - **Miscellaneous**
     - [How to start a startup by Sam Altman and Dustin Moskovitz](https://www.youtube.com/watch?v=F4K_qVlYQkg&index=17&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     -  [Before the startup by Paul Graham](https://www.youtube.com/watch?v=ii1jcLg-eIQ&index=3&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
@@ -54,3 +68,4 @@
     - [How to be a great founder by Reid Hoffman](https://www.youtube.com/watch?v=dQ7ZvO5DpIw&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=13)
     - [Legal and Accounting basics for startup by Kirsty Nathoo and Carolynn Levy](https://www.youtube.com/watch?v=EHzvmyMJEK4&index=18&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     -[Later stage advice by Sam Altman](https://www.youtube.com/watch?v=59ZQ-rf6iIc&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=20)
+    -[How to be a great leader and succeed long term by Ali Rowghani](https://youtu.be/5ZXU84_sGXo?t=28m53s)
