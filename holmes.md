@@ -1,6 +1,6 @@
 # Elizabeth Holmes
 
-## CEO and founder of Therano, an American blood testing company in Palo Alto, California
+### CEO and founder of Therano, an American blood testing company in Palo Alto, California
 
 1. [Elizabeth Holmes vision](https://youtu.be/xyMUMVywD34)
 2. [What are you willing to die for and most importantly live for?](https://youtu.be/gxYsTJyDT5g?t=6m55s)
