@@ -2,23 +2,23 @@
 
 1. [Stanford Blitzscaling](https://www.youtube.com/playlist?list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
   - [Overview of the five stages of blitzscaling](https://www.youtube.com/watch?v=s3RrVmv5WwA&index=1&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
-  - [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman) on Y-combinator and what makes the best founders
-  - [Michael Dearing]() on Capitalism, creativity and creative destruction
-  - [Ann Miura-Ko]() on Floodgate's thunder lizard theory and achieving product market fit
-  - [John Lilly]() on leveraging community to scale mozilla
-  - [Jennifer Pahlka]()  on founding code for America and starting the US Digital Service
-  - [Mariam Naficy]() on lesssons from the dot com days and knowing when to blitzscale
-  - [Eric Schmidt]() on structuring teams and scaling Google
-  - [Reid Hoffman]() and [Allen Blue]() on why and how they scaled Linkedin
-  - [Selina Tobaccowala]() on Building a global business at surveymonkey
-  - [Patrick Collison]() on hiring at Stripe and the role of a product-focused CEO
-  - [Nirav Tolia]() on growing Nextdoor and the path to Monetization
-  - [Shishir Mehrotra]() on scaling YouTube and the 10 Things that matter
-  - [Elizabeth Holmes]() on Managing product strategy, regulation and the media
-  - [Diana Greene]() on scaling products and culture at VMware
-  - [Reed Hastings]() on building a streaming empire
-  - [Marissa Mayer]() on scaling Google and Yahoo
-  - [Brian Chesky]() on launching Airbnb and the challanges of scale
-  - [Jeff Weiner]() on establishing a plan and culture for scaling
-  - [Final Recap and student discussion]()
+  - [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman) [on Y-combinator and what makes the best founders](https://www.youtube.com/watch?v=CxKXJWf-WMg&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--&index=2)
+  - [Michael Dearing on Capitalism, creativity and creative destruction](https://www.youtube.com/watch?v=3vCdfa_aeI8&index=3&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Ann Miura-Ko](http://floodgate.com/ann-miura-ko/) [on Floodgate's thunder lizard theory and achieving product market fit](https://www.youtube.com/watch?v=lgI89BLbeu8&index=4&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [John Lilly](https://en.wikipedia.org/wiki/John_Lilly_(computer_scientist)) [on leveraging community to scale mozilla](https://www.youtube.com/watch?v=Fm7mN9ERp4o&index=5&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Jennifer Pahlka](https://en.wikipedia.org/wiki/Jennifer_Pahlka) [on founding code for America and starting the US Digital Service](https://www.youtube.com/watch?v=Zx12-qFXFGk&index=6&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Mariam Naficy](https://en.wikipedia.org/wiki/Mariam_Naficy) [on lesssons from the dot com days and knowing when to blitzscale](https://www.youtube.com/watch?v=1BjZfqxtE6w&index=7&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Eric Schmidt](https://en.wikipedia.org/wiki/Eric_Schmidt)[ on structuring teams and scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns&index=8&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Reid Hoffman](https://en.wikipedia.org/wiki/Reid_Hoffman) and [Allen Blue]() [on why and how they scaled Linkedin](https://www.youtube.com/watch?v=UqHxbVsIkOM&index=9&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Selina Tobaccowala](https://en.wikipedia.org/wiki/Selina_Tobaccowala) [on Building a global business at surveymonkey](https://www.youtube.com/watch?v=igdN3FG5XP4&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--&index=10)
+  - [Patrick Collison](https://en.wikipedia.org/wiki/Patrick_Collison) [on hiring at Stripe and the role of a product-focused CEO](https://www.youtube.com/watch?v=qrDZhAxpKrQ&index=11&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Nirav Tolia](https://www.crunchbase.com/person/nirav-tolia#/entity) [on growing Nextdoor and the path to Monetization](https://www.youtube.com/watch?v=8166JC1wUbA&index=12&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Shishir Mehrotra](https://www.crunchbase.com/person/shishir-mehrotra#/entity)[ on scaling YouTube and the 10 Things that matter](https://www.youtube.com/watch?v=MopkTrQMx1A&index=13&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Elizabeth Holmes](https://en.wikipedia.org/wiki/Elizabeth_Holmes) [on Managing product strategy, regulation and the media](https://www.youtube.com/watch?v=juhATwufdbc&index=14&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Diana Greene](https://en.wikipedia.org/wiki/Diane_Greene) [on scaling products and culture at VMware](https://www.youtube.com/watch?v=vuqvVlfW798&index=15&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Reed Hastings](https://en.wikipedia.org/wiki/Reed_Hastings) [on building a streaming empire](https://www.youtube.com/watch?v=jYhP08uuffs&index=16&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Marissa Mayer](https://en.wikipedia.org/wiki/Marissa_Mayer)[ on scaling Google and Yahoo](https://www.youtube.com/watch?v=NS9mzbgI_qk&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--&index=17)
+  - [Brian Chesky](https://en.wikipedia.org/wiki/Brian_Chesky)[ on launching Airbnb and the challanges of scale](https://www.youtube.com/watch?v=W608u6sBFpo&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--&index=18)
+  - [Jeff Weiner](https://en.wikipedia.org/wiki/Jeff_Weiner) [on establishing a plan and culture for scaling](https://www.youtube.com/watch?v=cYN3ghAam14&index=19&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
+  - [Final Recap and student discussion](https://www.youtube.com/watch?v=IyY3t4loUig&index=20&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--)
 2. 
