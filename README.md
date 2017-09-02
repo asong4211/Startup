@@ -29,5 +29,6 @@
     4. [Yang lan one on one with Elon Musk](https://youtu.be/ytqPH1Bvucs)
     5. [Elon Musk's 2014 USC Commencement speech](https://youtu.be/e7Qh-vwpYH8)
     
-  - [Travis Kalanick at Startup Fest Europe](https://youtu.be/yScTkFxmnjQ)
-  - [Evan Spiegel 2015 USC Commencement Speech](https://youtu.be/-Ng0fXIITt0)
+  - **Miscellanous**:
+    1. [Travis Kalanick at Startup Fest Europe](https://youtu.be/yScTkFxmnjQ)
+    2. [Evan Spiegel 2015 USC Commencement Speech](https://youtu.be/-Ng0fXIITt0)
