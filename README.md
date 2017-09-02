@@ -35,7 +35,7 @@
   - **Marketing / PR / Press**
     - [Press by Justin Kan](https://youtu.be/oQOC-qy-GDY?t=33m28s)
     - [How to think about PR by Sharon Pope](https://youtu.be/KlekeNwOGHw)
-    - 
+  
   - **Users / Growing / Competition**
     - [Building product, talking to users, and growing by Adora Cheung](https://www.youtube.com/watch?v=yP176MBG9Tk&index=4&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     - [Competition is for losers by Peter Thiel](https://www.youtube.com/watch?v=5_0dVHMpJlo&index=5&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
