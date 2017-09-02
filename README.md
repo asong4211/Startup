@@ -31,6 +31,7 @@
     - [How to manage](https://www.youtube.com/watch?v=uVhTvQXfibU&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=15)
     - [Diversity and Inclusion at early stage by Kat Manalac and a panel discussion](https://youtu.be/v8b_urti6iQ)
     - [Vinod Khosla talks about belief systems around hiring and how to manage growth internally](https://youtu.be/alqHBCkSN8I)
+    
   - **Marketing / PR / Press**
     - [Press by Justin Kan](https://youtu.be/oQOC-qy-GDY?t=33m28s)
     - [How to think about PR by Sharon Pope](https://youtu.be/KlekeNwOGHw)
@@ -67,5 +68,5 @@
     -  [Building for the Enterprise](https://www.youtube.com/watch?v=tFVDjrvQJdw&index=12&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
     - [How to be a great founder by Reid Hoffman](https://www.youtube.com/watch?v=dQ7ZvO5DpIw&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=13)
     - [Legal and Accounting basics for startup by Kirsty Nathoo and Carolynn Levy](https://www.youtube.com/watch?v=EHzvmyMJEK4&index=18&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
-    -[Later stage advice by Sam Altman](https://www.youtube.com/watch?v=59ZQ-rf6iIc&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=20)
-    -[How to be a great leader and succeed long term by Ali Rowghani](https://youtu.be/5ZXU84_sGXo?t=28m53s)
+    - [Later stage advice by Sam Altman](https://www.youtube.com/watch?v=59ZQ-rf6iIc&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&index=20)
+    - [How to be a great leader and succeed long term by Ali Rowghani](https://youtu.be/5ZXU84_sGXo?t=28m53s)
